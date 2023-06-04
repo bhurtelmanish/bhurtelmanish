@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/manish-bhurtel-8a1328248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-bhurtel-8a1328248/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/manish.bhurtel.73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manish.bhurtel.73" height="30" width="40" /></a>
 <a href="https://www.instagram.com/manisbh__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manisbh__/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codegenesis2130" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codegenesis2130" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codegenesis2130" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codegenesis2130" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
