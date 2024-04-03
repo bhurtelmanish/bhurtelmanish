@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Backend and UX Designing**
 
-- 👨‍💻 All of my projects are available at [https://manishbhurtelportfolio.netlify.app/](https://manishbhurtelportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhurtelmanish.com.np/](https://bhurtelmanish.com.np/)
 
 - 💬 Ask me about **MERN stack development, Graphics Designing**
 
